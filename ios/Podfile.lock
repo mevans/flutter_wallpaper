@@ -1,0 +1,22 @@
+PODS:
+  - Flutter (1.0.0)
+  - wallpaper (0.0.4):
+    - Flutter
+
+DEPENDENCIES:
+  - Flutter (from `.symlinks/flutter/ios`)
+  - wallpaper (from `.symlinks/plugins/wallpaper/ios`)
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: ".symlinks/flutter/ios"
+  wallpaper:
+    :path: ".symlinks/plugins/wallpaper/ios"
+
+SPEC CHECKSUMS:
+  Flutter: 58dd7d1b27887414a370fcccb9e645c08ffd7a6a
+  wallpaper: c94e30fd69b0144a0f573e69c9085c46dbcee918
+
+PODFILE CHECKSUM: aff02bfeed411c636180d6812254b2daeea14d09
+
+COCOAPODS: 1.6.0
